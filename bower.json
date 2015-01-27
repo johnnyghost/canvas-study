@@ -1,0 +1,19 @@
+{
+  "name": "projectile",
+  "main": "projectile.js",
+  "version": "0.0.0",
+  "authors": [
+    "joao-henriques <kemarx@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
