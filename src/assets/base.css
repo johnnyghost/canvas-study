@@ -1,0 +1,14 @@
+/**
+ * Override html tags
+ */
+body {
+  margin: 0;
+}
+
+html {
+  background-color: #13191A;
+}
+
+/**
+ * Custom
+ */

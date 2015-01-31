@@ -1,6 +1,6 @@
 {
   "name": "projectile",
-  "main": "projectile.js",
+  "main": "src/script.js",
   "version": "0.0.0",
   "authors": [
     "joao-henriques <kemarx@gmail.com>"

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yeldify - projectile</title>
+
+	<link rel="stylesheet" type="text/css" href="assets/base.css">
+</head>
+<body>
+	<canvas id="stage"></canvas>
+
+	<script src="../bower_components/jquery/dist/jquery.min.js"></script>
+
+	<!-- @if NODE_ENV == 'DEVELOPMENT' -->
+    <script src="script.js"></script>
+	<!-- @endif -->
+
+	<!-- @if NODE_ENV == 'PRODUCTION' -->
+	<script src="canvas-study.min.js"></script>
+	<!-- @endif -->
+
+</body>
+</html>
