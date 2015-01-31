@@ -13,7 +13,7 @@ module.exports = function(grunt) {
         preprocess : {
              dev: {
                 src : './src/tmpl/index.html',
-                dest : './dev/index.html'
+                dest : './src/index.html'
             },
             prod: {
                 src : './src/tmpl/index.html',
