@@ -1,10 +1,13 @@
 /**
- * [description]
- * @return {[type]} [description]
+ * This is a result of a little study about canvas & physics.
+ *
+ * @param  {Object} $      jQuery object
+ * @param  {Object} window The window object
  */
 (function ($, window) {
 
     'use strict';
+
     /**
      * Default values.
      * This values could be mixin with other values.
